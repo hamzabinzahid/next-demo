@@ -1,0 +1,14 @@
+.plus-minus-input .input-group-field {
+    font-family: sans-serif;
+}
+
+.plus-minus-input .input-group-field:focus {
+    outline: none;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.plus-minus-input .input-group-field::-webkit-inner-spin-button,
+.plus-minus-input .input-group-field ::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    appearance: none;
+}
